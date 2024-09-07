@@ -13,3 +13,9 @@ _make sure that ruby, gem and bundle are installed properly on system_
 ```bash
 bundle exec jekyll serve --increment
 ```
+
+- To Clean the `_site` folder
+
+```bash
+bundle exec jekyll clean
+```
