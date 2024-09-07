@@ -6,12 +6,12 @@ description: >
 categories: [devlog]
 tags:       [Git, Project Management]
 sitemap: false
-image: /assets/GitWorkflow/label.jpg
+image: /assets/tech/GitWorkflow/label.jpg
 comments: true
 ---
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
-![{{ site.baseurl }}/assets/GitWorkflow/GitWorkFlowLabel.jpg]({{ site.baseurl }}/assets/GitWorkflow/GitWorkFlowLabel.jpg)
+![{{ site.baseurl }}/assets/tech/GitWorkflow/GitWorkFlowLabel.jpg]({{ site.baseurl }}/assets/tech/GitWorkflow/GitWorkFlowLabel.jpg)
 
 It is Adviced to open Image in separate window before reading below content, which is actually explaining the entire process.
 
