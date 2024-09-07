@@ -6,7 +6,7 @@ description: >
 categories: [devlog]
 tags:       [Intellij,Spring,Productivity,Thymeleaf]
 sitemap: false
-image: /assets/DevToolsSpring/DevToolsCover.jpg
+image: /assets/tech/DevToolsSpring/DevToolsCover.jpg
 comments: true
 ---
 0. this unordered seed list will be replaced by toc as unordered list
@@ -34,7 +34,7 @@ Install LiveReload extension for your browser (Usually Chrome is preferred)
 1. go to app store [https://chrome.google.com/webstore/category/extensions](https://chrome.google.com/webstore/category/extensions)
 2. select Live Reload and install and Enable it. 
 
-    ![{{ site.baseurl }}/assets/DevToolsSpring/Untitled.png]({{ site.baseurl }}/assets/DevToolsSpring/Untitled.png)
+    ![{{ site.baseurl }}/assets/tech/DevToolsSpring/Untitled.png]({{ site.baseurl }}/assets/tech/DevToolsSpring/Untitled.png)
 
 3. Restart your Spring Boot application.
 
@@ -49,12 +49,12 @@ Sometimes there are issues in case you are in Intellij
 - Make sure to go to settings > Compiler > Build project Automatically
     - make sure that this checkbox is ticked.
 
-![{{ site.baseurl }}/assets/DevToolsSpring/Untitled%201.png]({{ site.baseurl }}/assets/DevToolsSpring/Untitled%201.png)
+![{{ site.baseurl }}/assets/tech/DevToolsSpring/Untitled%201.png]({{ site.baseurl }}/assets/tech/DevToolsSpring/Untitled%201.png)
 
 - Double shift and go to registry
     - Search for compiler.automake.allow.when.app.running and mark it as "checked"
 
-![{{ site.baseurl }}/assets/DevToolsSpring/Untitled%202.png]({{ site.baseurl }}/assets/DevToolsSpring/Untitled%202.png)
+![{{ site.baseurl }}/assets/tech/DevToolsSpring/Untitled%202.png]({{ site.baseurl }}/assets/tech/DevToolsSpring/Untitled%202.png)
 
 ## Customizations
 

@@ -6,7 +6,7 @@ description: >
 categories: [devlog]
 tags:       [Localization, Internationalization, Spring,POC]
 sitemap: false
-image: /assets/Internationalization/InternationalizationCover.jpg
+image: /assets/tech/Internationalization/InternationalizationCover.jpg
 comments: true
 ---
 0. this unordered seed list will be replaced by toc as unordered list

@@ -6,7 +6,7 @@ description: >
 categories: [devlog]
 tags:       [MySql, docker]
 sitemap: false
-image: /assets/dockerMySql/label.jpg
+image: /assets/tech/dockerMySql/label.jpg
 comments: true
 ---
 0. this unordered seed list will be replaced by toc as unordered list
@@ -36,7 +36,7 @@ Now Check whether the Image is available , and the response would be similar to 
 docker images
 ```
 
-![{{ site.baseurl }}/assets/dockerMySql/Untitled.png]({{ site.baseurl }}/assets/dockerMySql/Untitled.png)
+![{{ site.baseurl }}/assets/tech/dockerMySql/Untitled.png]({{ site.baseurl }}/assets/tech/dockerMySql/Untitled.png)
 
 ## Deploy the Image
 
@@ -56,7 +56,7 @@ Check the status of docker image whether its running with following command
 docker ps
 ```
 
-![{{ site.baseurl }}/assets/dockerMySql/Untitled%201.png]({{ site.baseurl }}/assets/dockerMySql/Untitled%201.png)
+![{{ site.baseurl }}/assets/tech/dockerMySql/Untitled%201.png]({{ site.baseurl }}/assets/tech/dockerMySql/Untitled%201.png)
 
 ## Connect to MySql
 
@@ -74,7 +74,7 @@ docker exec -it [container_name] mysql -uroot -p
 
 this will prompt password 
 
-![{{ site.baseurl }}/assets/dockerMySql/Untitled%202.png]({{ site.baseurl }}/assets/dockerMySql/Untitled%202.png)
+![{{ site.baseurl }}/assets/tech/dockerMySql/Untitled%202.png]({{ site.baseurl }}/assets/tech/dockerMySql/Untitled%202.png)
 
 To get the password , as we have not manually provided , we need to refer to the mysql logs , hence type following command and it will show GENERATED ROOT PASSWORD as shown below 
 
@@ -82,7 +82,7 @@ To get the password , as we have not manually provided , we need to refer to the
 docker logs [container_name]
 ```
 
-![{{ site.baseurl }}/assets/dockerMySql/Untitled%203.png]({{ site.baseurl }}/assets/dockerMySql/Untitled%203.png)
+![{{ site.baseurl }}/assets/tech/dockerMySql/Untitled%203.png]({{ site.baseurl }}/assets/tech/dockerMySql/Untitled%203.png)
 
 this will open sql window , now we should not want to use Auto Generated mysql and trigger our own password 
 
