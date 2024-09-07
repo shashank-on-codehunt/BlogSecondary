@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2e52aa1e-d1e2-4618-94a6-d08d32356002/deploy-status)](https://app.netlify.com/sites/relaxed-villani-476ba3/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e162fc40-a49d-4808-9296-89a5948bed32/deploy-status)](https://app.netlify.com/sites/bucolic-rolypoly-8c22b1/deploys)
 
 # Hydejack Starter Kit
 
