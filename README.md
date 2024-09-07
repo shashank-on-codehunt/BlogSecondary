@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2e52aa1e-d1e2-4618-94a6-d08d32356002/deploy-status)](https://app.netlify.com/sites/relaxed-villani-476ba3/deploys)
+
 # Hydejack Starter Kit
 
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
