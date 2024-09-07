@@ -18,4 +18,13 @@ bundle exec jekyll serve --increment
 
 ```bash
 bundle exec jekyll clean
+bundle exec jekyll build
+```
+
+- Some Gemfile.lock went wrong 
+
+```bash
+bundle clean --force    
+rm -rf ./vendor/bundle
+bundle install
 ```
