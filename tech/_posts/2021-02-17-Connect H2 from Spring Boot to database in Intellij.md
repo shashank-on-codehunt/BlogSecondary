@@ -3,7 +3,7 @@ layout: post
 title: Connect H2 from Spring Boot to  database in Intellij
 description: >
     Intellij (Ultimate Only) has the Database connection option to add database connection , however while connecting in-memory database like H2 (here part of Spring Boot) often we get problem . 
-categories: [devlog]
+categories: [tech]
 tags:       [Intellij,H2]
 sitemap: false
 image: /assets/tech/ConnectH2toInteliijDb/cover.jpg

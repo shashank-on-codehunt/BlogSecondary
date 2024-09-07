@@ -3,7 +3,7 @@ layout: post
 title: Git Workflow
 description: >
   Guide for Using Git workflow.While working on team we often get confused with mutliple branches and a proper managment gets lacking , however with Git Workflow we can get very productive just as team starts following a single workflow.
-categories: [devlog]
+categories: [tech]
 tags:       [Git, Project Management]
 sitemap: false
 image: /assets/tech/GitWorkflow/label.jpg

@@ -3,7 +3,7 @@ layout: post
 title: Debugging Like a Pro in Intellij
 description: >
   Exhausive Guide to Debug Java Application in Intellij, Must have Skill for all the Java Developer (Updated 2020)
-categories: [devlog]
+categories: [tech]
 tags:       [Intellij, Debugging]
 sitemap: false
 image: /assets/tech/Debugging%20Your%20Code%20like%20a%20Pro%20in%20Intellij%20c146c5234603485896684e3e75ab4098/IntellijDebugger.png

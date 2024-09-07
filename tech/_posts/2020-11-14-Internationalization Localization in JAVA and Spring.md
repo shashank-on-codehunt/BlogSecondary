@@ -3,7 +3,7 @@ layout: post
 title: Internationalization and Localization in Spring and JAVA
 description: >
   Guide to Server-Side programming for Internationalization and Localization 
-categories: [devlog]
+categories: [tech]
 tags:       [Localization, Internationalization, Spring,POC]
 sitemap: false
 image: /assets/tech/Internationalization/InternationalizationCover.jpg
