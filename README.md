@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e162fc40-a49d-4808-9296-89a5948bed32/deploy-status)](https://app.netlify.com/sites/bucolic-rolypoly-8c22b1/deploys)
+
 # Hydejack Starter Kit
 
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
