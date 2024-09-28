@@ -1,0 +1,38 @@
+git:
+  name: Git
+
+project-management:
+  name: Project Management
+
+intellij:
+  name: Intellij
+
+debugging:
+  name: Debugging
+
+mysql:
+  name: MySql
+
+docker:
+  name: Docker
+
+localization:
+  name: Localization
+
+internationalization:
+  name: Internationalization
+
+spring:
+  name: Spring
+
+poc:
+  name: POC
+
+productivity:
+  name: Productivity
+
+thymeleaf:
+  name: Thymeleaf
+
+H2:
+  name: H2

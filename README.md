@@ -1,20 +1,30 @@
-# Hydejack Starter Kit
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e162fc40-a49d-4808-9296-89a5948bed32/deploy-status)](https://app.netlify.com/sites/bucolic-rolypoly-8c22b1/deploys)
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+# Blogging project
+## contains information about development and Technology
+## List of projects
+## About and Skills
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+## To Start project on local 
+_make sure that ruby, gem and bundle are installed properly on system_
 
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+```bash
+bundle exec jekyll serve --increment
+```
+
+- To Clean the `_site` folder
+
+```bash
+bundle exec jekyll clean
+bundle exec jekyll build
+```
+
+- Some Gemfile.lock went wrong 
+
+```bash
+bundle clean --force    
+rm -rf ./vendor/bundle
+bundle install
+```
