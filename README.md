@@ -5,8 +5,6 @@
 ## List of projects
 ## About and Skills
 
-
-
 ## To Start project on local 
 _make sure that ruby, gem and bundle are installed properly on system_
 
