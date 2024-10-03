@@ -29,6 +29,7 @@ You know what’s a common problem? Forgetting the purpose of what we’re tryin
 3. TDD enables the generation of invocable code for specific APIs, offering valuable low-level insights while promoting decoupling
 4. Consequently, it contributes to the creation of a decoupled codebase
 5. Moreover, TDD adds an element of fun to the process of writing unit tests and minimizes the possibility of leaving gaps in the test suite.
+
 ---
 
 # Process
